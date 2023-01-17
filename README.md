@@ -6,9 +6,9 @@ Reference Link : https://leetcode.com/discuss/general-discussion/460599/blind-75
 
 - [x] Two Sum
 - [x] Best Time to Buy and Sell Stock
-- Contains Duplicate
-- Product of Array Except Self
-- Maximum Subarray
+- [x] Contains Duplicate
+- [x] Product of Array Except Self
+- [ ] Maximum Subarray
 - [ ] Maximum Product Subarray
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
